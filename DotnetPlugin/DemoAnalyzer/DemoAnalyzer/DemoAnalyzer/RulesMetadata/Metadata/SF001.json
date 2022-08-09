@@ -1,0 +1,7 @@
+{
+	"title": "Custom Dummy Rule Invoked!",
+	"category": "C#-General",
+	"tags": [ "TestTag" ],
+	"defaultSeverity": "Major",
+	"defaultActive": "true"
+}

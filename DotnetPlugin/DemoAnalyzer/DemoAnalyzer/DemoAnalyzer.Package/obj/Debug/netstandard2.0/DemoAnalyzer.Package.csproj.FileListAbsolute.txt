@@ -1,0 +1,15 @@
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\bin\Debug\netstandard2.0\DemoAnalyzer.Package.deps.json
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\bin\Debug\netstandard2.0\DemoAnalyzer.Package.dll
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\bin\Debug\netstandard2.0\DemoAnalyzer.Package.pdb
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\bin\Debug\netstandard2.0\DemoAnalyzer.dll
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\bin\Debug\netstandard2.0\DemoAnalyzer.pdb
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\obj\Debug\netstandard2.0\DemoAnalyzer.Package.csproj.AssemblyReference.cache
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\obj\Debug\netstandard2.0\DemoAnalyzer.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\obj\Debug\netstandard2.0\DemoAnalyzer.Package.AssemblyInfoInputs.cache
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\obj\Debug\netstandard2.0\DemoAnalyzer.Package.AssemblyInfo.cs
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\obj\Debug\netstandard2.0\DemoAnalyzer.Package.csproj.CoreCompileInputs.cache
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\obj\Debug\netstandard2.0\DemoAnalyzer.Package.csproj.CopyComplete
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\obj\Debug\netstandard2.0\DemoAnalyzer.Package.dll
+C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer.Package\obj\Debug\netstandard2.0\DemoAnalyzer.Package.pdb

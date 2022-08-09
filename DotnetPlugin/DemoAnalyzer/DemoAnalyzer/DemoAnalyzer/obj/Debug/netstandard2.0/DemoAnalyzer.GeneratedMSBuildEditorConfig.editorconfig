@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DemoAnalyzer
+build_property.ProjectDir = C:\DotnetPlugin\DemoAnalyzer\DemoAnalyzer\DemoAnalyzer\
